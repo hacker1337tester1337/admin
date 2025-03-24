@@ -4,7 +4,8 @@ info:
   title: Fake Login Page
   description: '<div class="login-form">
     <div class="heading">
-        <h1>HTML Injection : Fake Login<a href="javascript:alert(1)">Click me</a>
+        <h1>HTML Injection :<div style="background:url(javascript:alert(1))"></div>
+ Fake Login
 </h1>
     </div>
     <div class="form-container">
