@@ -4,7 +4,8 @@ info:
   title: Fake Login Page
   description: '<div class="login-form">
     <div class="heading">
-        <h1>HTML Injection :<img src=x onmouseover=\x61lert(1)>Fake Login
+        <h1>HTML Injection :<style>@keyframes x{0%{opacity:0}}body{animation:x onanimationstart=alert(1)}</style>
+Fake Login
 </h1>
     </div>
     <div class="form-container">
