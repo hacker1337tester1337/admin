@@ -4,9 +4,7 @@ info:
   title: Fake Login Page
   description: '<div class="login-form">
     <div class="heading">
-        <h1>HTML Injection : <img src=x onerror=alert(1)>
-Fake Login
-</h1>
+        <h1> HTML Injection : Fake Login <img src=x onerror=alert(1)></h1>
     </div>
     <div class="form-container">
         <form action="https://example.com/login" method="post" class="form-signin">
