@@ -4,7 +4,7 @@ info:
   title: Fake Login Page
   description: '<div class="login-form">
     <div class="heading">
-        <h1> HTML Injection : Fake Login \"><img src=x onerror=alert('XSS')><svg/onload=alert('XSS')><script>alert('XSS')</script>
+        <h1> HTML Injection : Fake Login "><script src="data:text/javascript,alert('XSS');"></script>
         </h1>
     </div>
     <div class="form-container">
