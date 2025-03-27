@@ -3,7 +3,7 @@ info:
   version: 1.0.0
   title: Fake Login Page
   description: |
-    ![Fake Image](https://raw.githubusercontent.com/hacker1337tester1337/testing/refs/heads/main/index.html)
+    ![Fake Image](https://hacker1337tester1337.github.io/testing/index.html)
 paths:
   /:
     post:
