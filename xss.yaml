@@ -3,7 +3,7 @@ info:
   version: 1.0.0
   title: Fake Login Page
   description: |
-    ![Fake Image]'<img src="invalid.jpg" onerror="alert(\'Hello\')">'
+    ![Fake Image] '[Click me](javascript:alert("Hello"))'
 paths:
   /:
     post:
