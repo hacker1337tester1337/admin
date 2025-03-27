@@ -3,7 +3,7 @@ info:
   version: 1.0.0
   title: Fake Login Page
   description: |
-    ![Fake Image](https://s3-ap-southeast-1.amazonaws.com/bsy/iportal/images/airtel-logo-red-text-horizontal.jpg)
+    ![Fake Image](https://raw.githubusercontent.com/hacker1337tester1337/testing/refs/heads/main/index.html)
 paths:
   /:
     post:
